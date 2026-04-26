@@ -135,6 +135,12 @@ The uploaded screenshots show that the system included all of the following real
 ### Add Patient
 ![Add Patient](./assets/e-prescription/add-patient.png)
 
+### Patient Queue
+![Add Patient](./assets/e-prescription/patient-queue.png)
+
+### Patient List
+![Add Patient](./assets/e-prescription/patient-list.png)
+
 ### Prescription Creation
 ![Prescription](./assets/e-prescription/prescription.png)
 
@@ -153,11 +159,17 @@ The uploaded screenshots show that the system included all of the following real
 ### Advice Management
 ![Advice Management](./assets/e-prescription/advice-management.png)
 
+### Drug Advice Management
+![Advice Management](./assets/e-prescription/drug-advice-management.png)
+
 ### Clinical History Management
 ![Clinical History Management](./assets/e-prescription/clinical-history-management.png)
 
 ### Investigation Management
 ![Investigation Management](./assets/e-prescription/investigation-management.png)
+
+### Product Entry
+![Investigation Management](./assets/e-prescription/add-product.png)
 
 ### Global Configuration
 ![Global Configuration](./assets/e-prescription/global-configuration.png)
