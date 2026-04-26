@@ -96,17 +96,54 @@ My contributions included work on:
 
 ## System Modules
 
-The platform included modules and page types such as:
-- **News**
-- **Events**
-- **Documents**
-- **Photos / media sections**
-- **Career-related pages**
-- **Search and search results**
-- **Catalog and content detail pages**
-- **FAQ-style support**
-- **Map or location-oriented components**
-- **Rich text content editing support**
+## System Modules
+
+The platform included internal content and administration modules such as:
+- dashboard
+- slider management
+- specialized product management
+- TG management
+- generic management
+- product management
+- fiscal year management
+- financial reports management
+- news and announcements management
+- bexinfo category and content management
+- news category and news management
+- medical newsletter management
+- search management
+- user management
+- employee management
+- subscriber management
+- publication management
+- content management
+- culture, health, disease information, and CSR-related management
+
+## Selected Screenshots
+
+### Dashboard
+![Dashboard](./assets/beximco-corporate-site/dashboard.png)
+
+### Content Management
+![Content Management](./assets/beximco-corporate-site/content-management.png)
+
+### News Management
+![News Management](./assets/beximco-corporate-site/news-management.png)
+
+### Product Management
+![Product Management](./assets/beximco-corporate-site/product-management.png)
+
+### Publication Management
+![Publication Management](./assets/beximco-corporate-site/publication-management.png)
+
+### Financial Reports Management
+![Financial Reports Management](./assets/beximco-corporate-site/financial-reports-management.png)
+
+### User Management
+![User Management](./assets/beximco-corporate-site/user-management.png)
+
+### Employee Management
+![Employee Management](./assets/beximco-corporate-site/employee-management.png)
 
 ## What Makes This Project Strong
 
