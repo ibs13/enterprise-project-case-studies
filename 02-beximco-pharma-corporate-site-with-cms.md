@@ -121,6 +121,9 @@ The platform included internal content and administration modules such as:
 
 ## Selected Screenshots
 
+### Login
+![Login](./assets/beximco-corporate-site/admin-login.png)
+
 ### Dashboard
 ![Dashboard](./assets/beximco-corporate-site/dashboard.png)
 
@@ -139,8 +142,8 @@ The platform included internal content and administration modules such as:
 ### Financial Reports Management
 ![Financial Reports Management](./assets/beximco-corporate-site/financial-reports-management.png)
 
-### User Management
-![User Management](./assets/beximco-corporate-site/user-management.png)
+### Medical Newsletter Management
+![User Management](./assets/beximco-corporate-site/medical-newsletter-management.png)
 
 ### Employee Management
 ![Employee Management](./assets/beximco-corporate-site/employee-management.png)
