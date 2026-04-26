@@ -42,6 +42,10 @@ Depending on the project, the technologies included:
 - MySQL
 - Meteor
 - Next.js
+- React
+- Tailwind CSS
+- NextAuth
+- API routes
 - MongoDB
 - HTML
 - CSS
