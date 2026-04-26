@@ -41,6 +41,7 @@ Depending on the project, the technologies included:
 - PHP
 - MySQL
 - Meteor
+- Next.js
 - MongoDB
 - HTML
 - CSS
