@@ -4,15 +4,15 @@
 
 ## Overview
 
-The E-Prescription System was a doctor-facing healthcare web application developed at **Beximco Pharmaceuticals Ltd.** during **2020-2021**. I worked on this project **with another team member**.
+The E-Prescription System was a doctor-facing healthcare web application developed at **Beximco Pharmaceuticals Ltd.** during **2020-2021**. I worked on this project with another team member.
 
-The system was designed to digitize patient intake, queue handling, prescription preparation, follow-up workflow, and printable prescription generation. It supported doctor-side operational use through a structured interface for patient data entry, clinical information capture, medication entry, investigation history, advice management, and prescription printing.
+The system was built to digitize patient intake, queue handling, prescription preparation, follow-up workflow, and printable prescription generation. It supported doctor-side operational use through a structured interface for patient data entry, clinical information capture, medication entry, investigation history, advice management, and prescription printing.
 
-This was not a static website. It was a real workflow-driven internal medical application used to support consultation and prescription-related work.
+This was a real workflow-driven internal medical application designed to support consultation and prescription-related work.
 
 ## Business Problem
 
-Prescription handling and patient consultation workflows become inefficient when patient data, symptoms, investigations, advice, and medicine details are managed manually or across disconnected processes.
+Prescription handling and patient consultation workflows become inefficient when patient data, symptoms, investigations, advice, and medication details are managed manually or across disconnected processes.
 
 This project addressed problems such as:
 - manual patient entry and queue handling
@@ -20,7 +20,7 @@ This project addressed problems such as:
 - difficulty organizing structured patient medical information
 - the need for reusable master data such as symptoms, investigations, advice, and drug advice
 - the need for a clean printable prescription output for consultation use
-- the need for configurable prescription and patient form fields depending on usage context
+- the need for configurable patient and prescription form behavior depending on workflow needs
 
 ## Users
 
@@ -29,11 +29,11 @@ The main users of the system were:
 - **Internal assistants or staff**, depending on configuration and workflow support
 - **Patients indirectly**, through the printed prescription and maintained consultation record
 
-The screenshots also indicate configurable assistant support and doctor profile setup within the system.
+The application also supported assistant-related configuration and doctor profile setup.
 
 ## My Role
 
-I worked as a **software developer** on this project together with another team member. My contribution was in application development, workflow-oriented feature implementation, data-driven backend functionality, and support for a real internal healthcare system.
+I worked as a **software developer** on this project together with another team member. My contribution included application development, workflow-oriented feature implementation, data-driven functionality, and support for a real internal healthcare system.
 
 ## Project Year
 
@@ -41,7 +41,7 @@ I worked as a **software developer** on this project together with another team 
 
 ## Team
 
-- Worked with **another team member**
+- Worked with another team member
 - Developed as part of professional work at **Beximco Pharmaceuticals Ltd.**
 
 ## Tech Stack
@@ -57,7 +57,7 @@ I worked as a **software developer** on this project together with another team 
 
 ## Key Features
 
-Based on the available project materials and screenshots, the system supported:
+The system supported the following core workflows and modules.
 
 ### Core patient workflow
 - login-based doctor access
@@ -79,7 +79,7 @@ Based on the available project materials and screenshots, the system supported:
 - save and print prescription
 - ready-to-print prescription format
 
-### Master data / administration workflow
+### Master data and administration workflow
 - symptom management
 - clinical history management
 - investigation management
@@ -96,14 +96,14 @@ My contributions included work across structured healthcare workflow features su
 - doctor-side patient entry and patient management flow
 - prescription preparation interface
 - data entry forms for symptoms, investigations, diagnosis, and medication
-- CRUD-style management pages for reusable medical/supporting data
+- CRUD-style management pages for reusable medical and supporting data
 - settings and profile-oriented functionality
-- support for printable prescription output
-- maintenance and enhancement of a real business application in production context
+- printable prescription support
+- maintenance and enhancement of a real business application in a production context
 
-## Evidence from Screenshots
+## System Modules
 
-The uploaded screenshots show that the system included all of the following real modules and workflows:
+The application included the following modules and workflows:
 
 - **Login panel**
 - **Dashboard**
@@ -136,22 +136,22 @@ The uploaded screenshots show that the system included all of the following real
 ![Add Patient](./assets/e-prescription/add-patient.png)
 
 ### Patient Queue
-![Add Patient](./assets/e-prescription/patient-queue.png)
+![Patient Queue](./assets/e-prescription/patient-queue.png)
 
 ### Patient List
-![Add Patient](./assets/e-prescription/patient-list.png)
+![Patient List](./assets/e-prescription/patient-list.png)
 
 ### Prescription Creation
-![Prescription](./assets/e-prescription/prescription.png)
+![Prescription Creation](./assets/e-prescription/prescription.png)
 
 ### Save and Print Flow
-![Save and Print](./assets/e-prescription/save-and-print.png)
+![Save and Print Flow](./assets/e-prescription/save-and-print.png)
 
 ### Patient Details / Prescription View
 ![Patient Details](./assets/e-prescription/patient-details.png)
 
 ### Printable Prescription Output
-![Ready to Print](./assets/e-prescription/ready-to-print.png)
+![Ready to Print Prescription](./assets/e-prescription/ready-to-print.png)
 
 ### Symptom Management
 ![Symptom Management](./assets/e-prescription/symptom-management.png)
@@ -160,7 +160,7 @@ The uploaded screenshots show that the system included all of the following real
 ![Advice Management](./assets/e-prescription/advice-management.png)
 
 ### Drug Advice Management
-![Advice Management](./assets/e-prescription/drug-advice-management.png)
+![Drug Advice Management](./assets/e-prescription/drug-advice-management.png)
 
 ### Clinical History Management
 ![Clinical History Management](./assets/e-prescription/clinical-history-management.png)
@@ -169,7 +169,7 @@ The uploaded screenshots show that the system included all of the following real
 ![Investigation Management](./assets/e-prescription/investigation-management.png)
 
 ### Product Entry
-![Investigation Management](./assets/e-prescription/add-product.png)
+![Product Entry](./assets/e-prescription/add-product.png)
 
 ### Global Configuration
 ![Global Configuration](./assets/e-prescription/global-configuration.png)
@@ -177,12 +177,14 @@ The uploaded screenshots show that the system included all of the following real
 ### Doctor Profile
 ![Doctor Profile](./assets/e-prescription/edit-profile.png)
 
+### Change Password
+![Doctor Profile](./assets/e-prescription/change-password.png)
+
 ## What Makes This Project Strong
 
 This is one of the strongest projects in my earlier professional experience because it demonstrates:
-
 - real business software development
-- healthcare/pharma domain exposure
+- healthcare and pharmaceutical domain exposure
 - structured patient and prescription workflow
 - database-backed internal application design
 - multiple connected modules rather than a single form or page
@@ -190,19 +192,19 @@ This is one of the strongest projects in my earlier professional experience beca
 - printable operational output
 - production-style CRUD, workflow, and admin functionality
 
-For software engineering roles, this project is strong because it shows I worked on a real internal system with meaningful workflow complexity, not only a brochure website.
+For software engineering roles, this project is strong because it shows experience working on a real internal system with meaningful workflow complexity, not just a brochure website.
 
 ## Lessons Learned
 
-This project helped me strengthen:
-- workflow-based application design thinking
+This project strengthened my understanding of:
+- workflow-based application design
 - form-heavy and data-heavy web development
 - relational data handling in practical business scenarios
 - CRUD-oriented module design for reusable master data
 - healthcare-oriented software structure and operational usability
-- how to build systems that support real users in day-to-day work
+- building systems that support real users in day-to-day work
 
-It also improved my understanding of how a business application grows through connected modules like queue handling, patient history, diagnosis, medication, advice, investigations, settings, and printing.
+It also improved my understanding of how a business application grows through connected modules such as queue handling, patient history, diagnosis, medication, advice, investigations, settings, and printing.
 
 ## Confidentiality Note
 
