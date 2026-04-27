@@ -138,6 +138,44 @@ The application included the following modules and workflows:
 - **Scheduling**
 - **Settings**
 
+  ## Selected Screenshots
+
+### Dashboard
+![Dashboard](./assets/bpl-room-booking/dashboard.png)
+
+### Booking Management
+![Booking Management](./assets/bpl-room-booking/booking-management.png)
+
+### My Booking List
+![My Booking List](./assets/bpl-room-booking/my-booking-list.png)
+
+### Scheduling Form
+![Scheduling Form](./assets/bpl-room-booking/scheduling.png)
+
+### User Management
+![User Management](./assets/bpl-room-booking/user-management.png)
+
+### Role Management
+![Role Management](./assets/bpl-room-booking/role-management.png)
+
+### Resource Management
+![Resource Management](./assets/bpl-room-booking/resource-management.png)
+
+### Department Management
+![Department Management](./assets/bpl-room-booking/department-management.png)
+
+### Concern Department Management
+![Concern Department Management](./assets/bpl-room-booking/concern-department-management.png)
+
+### Location Management
+![Location Management](./assets/bpl-room-booking/location-management.png)
+
+### Profile
+![Profile](./assets/bpl-room-booking/profile.png)
+
+### Settings
+![Settings](./assets/bpl-room-booking/settings.png)
+
 ## What Makes This Project Strong
 
 This project is one of the stronger examples from my earlier professional experience because it demonstrates:
